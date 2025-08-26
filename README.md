@@ -1,5 +1,3 @@
-Claro, aqui está a versão atualizada do `README.md` com as alterações solicitadas.
-
 -----
 
 # EstoqueFácil - Sistema de Gerenciamento de Estoque em Console
@@ -13,6 +11,7 @@ Claro, aqui está a versão atualizada do `README.md` com as alterações solici
 O sistema persiste os dados em um arquivo `json`, garantindo que as informações não sejam perdidas entre as sessões. A interface é colorida e organizada para facilitar a visualização e a interação do usuário. **Este projeto foi desenvolvido como trabalho final para a disciplina de Lógica de Programação.**
 
 -----
+
 
 ## Funcionalidades Principais
 
