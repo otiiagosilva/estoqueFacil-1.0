@@ -30,27 +30,6 @@ O sistema persiste os dados em um arquivo `json`, garantindo que as informaçõe
 
 -----
 
-## Como Executar
-
-Este projeto não requer a instalação de bibliotecas externas, pois utiliza apenas módulos padrão do Python.
-
-1.  **Clone o repositório (ou baixe os arquivos):**
-
-    ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
-    ```
-
-2.  **Execute o script Python:**
-
-    ```bash
-    python nome_do_seu_arquivo.py
-    ```
-
-    > Ao ser executado pela primeira vez, o sistema criará um arquivo `meu_estoque.json` no mesmo diretório para armazenar os dados.
-
------
-
 ## Arquitetura e Conceitos
 
 O projeto foi estruturado em duas classes principais para separar a lógica de negócio da interface do usuário (Princípio da Separação de Responsabilidades):
