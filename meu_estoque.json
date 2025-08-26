@@ -38,11 +38,12 @@
         },
         "4": {
             "id": 4,
-            "nome": "Cabo USB fastcharger (tipo-C)",
+            "nome": "Cabo USB (tipo-C)",
             "categoria": "Cabos",
             "descricao": "5",
             "quantidade": 6,
             "preco": 9.99
         }
     }
+
 }
