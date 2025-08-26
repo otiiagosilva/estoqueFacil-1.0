@@ -1,0 +1,48 @@
+{
+    "proximo_id": 5,
+    "categorias": [
+        "Cabos",
+        "Capas",
+        "Carregador",
+        "Fones de ouvido",
+        "Películas",
+        "Pendrive",
+        "Smartphones",
+        "Suporte",
+        "iOS"
+    ],
+    "produtos": {
+        "1": {
+            "id": 1,
+            "nome": "carregador",
+            "categoria": "Carregador",
+            "descricao": "Sem descrição",
+            "quantidade": 24,
+            "preco": 99.99
+        },
+        "2": {
+            "id": 2,
+            "nome": "Iphone 16",
+            "categoria": "iOS",
+            "descricao": "Aparelho novo",
+            "quantidade": 3,
+            "preco": 13899.0
+        },
+        "3": {
+            "id": 3,
+            "nome": "Capa galaxy A01",
+            "categoria": "Capas",
+            "descricao": "Capa cor transparente para o modelo Samsung galaxy A01.",
+            "quantidade": 4,
+            "preco": 14.9
+        },
+        "4": {
+            "id": 4,
+            "nome": "Cabo USB fastcharger (tipo-C)",
+            "categoria": "Cabos",
+            "descricao": "5",
+            "quantidade": 6,
+            "preco": 9.99
+        }
+    }
+}
