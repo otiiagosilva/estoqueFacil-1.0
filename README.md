@@ -1,10 +1,10 @@
 -----
 
-# EstoqueFácil - Sistema de Gerenciamento de Estoque em Console
+# EstoqueFácil - Sistema de Gerenciamento de Estoque
 
 **Linguagem:** Python 3.10+
 
-## Sobre o Projeto
+## Sobre
 
 **EstoqueFácil** é um sistema de gerenciamento de estoque robusto e interativo, desenvolvido em Python, que opera diretamente no terminal. Ele foi projetado para ser uma ferramenta simples e eficiente para o controle completo sobre produtos, categorias e movimentações de estoque.
 
